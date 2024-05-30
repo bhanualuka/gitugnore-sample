@@ -1,3 +1,4 @@
 *.txt
+!notignoringtext.txt
 folder2/
 /folder
